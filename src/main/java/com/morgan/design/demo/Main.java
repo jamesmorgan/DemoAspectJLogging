@@ -3,6 +3,9 @@ package com.morgan.design.demo;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * @author james.morgan
+ */
 public class Main {
 
 	public static void main(final String[] args) {

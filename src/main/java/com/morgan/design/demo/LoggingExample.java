@@ -5,6 +5,9 @@ import org.springframework.stereotype.Component;
 import com.morgan.design.demo.annotation.LogMe;
 import com.morgan.design.demo.annotation.LoggingLevel;
 
+/**
+ * @author james.morgan
+ */
 @Component
 public class LoggingExample {
 
